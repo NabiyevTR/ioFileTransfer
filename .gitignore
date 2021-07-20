@@ -2,3 +2,15 @@
 .idea/
 
 *.iml
+
+*.log
+
+server/src/main/resources/log4j.properties
+
+server/target/classes/
+
+*.class
+
+*.properties
+
+client/target/classes/ru/ntr/client/clientPrimary.fxml
